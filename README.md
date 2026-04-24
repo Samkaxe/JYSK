@@ -36,7 +36,7 @@ The application is developed using the **Flutter** framework, providing a high-p
 ### Steps to Run
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Samkaxe/JYSK
    cd JYSK/frontend
    ```
 
